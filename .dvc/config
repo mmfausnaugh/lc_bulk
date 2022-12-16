@@ -1,4 +1,4 @@
 [core]
     remote = tess_science
 ['remote "tess_science"']
-    url = https://tess.mit.edu:/data/public/tesstransients/lc_bulk_dvc
+    url = https://tess.mit.edu:/public/tesstransients/lc_bulk_dvc
