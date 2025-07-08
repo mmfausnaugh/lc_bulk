@@ -1,4 +1,5 @@
 outs:
-- md5: 49fdc442de2b0296e31e9dfe627451b3
-  size: 14175898
+- md5: 6d6248eade29689423fb2896364f6a27
+  size: 190503922
   path: s0092.tgz
+  hash: md5
